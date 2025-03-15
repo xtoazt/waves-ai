@@ -18,7 +18,6 @@ const modelDisplayNames = {
   "llama-3.1-8b-instant": "Llama 3.1 8B Instant",
   "llama-3.3-70b-specdec": "Llama 3.3 70B SpecDec",
   "llama-3.3-70b-versatile": "Llama 3.3 70B Versatile",
-  "llama-guard-3-8b": "Llama Guard 3 8B",
   "qwen-2.5-32b": "Qwen 2.5 32b",
   "deepseek-r1-distill-llama-70b": "Deepseek R1 Distill Llama 70B",
   "gemma2-9b-it": "Gemma2 9B IT",
